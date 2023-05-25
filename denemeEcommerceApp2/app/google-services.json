@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257347618163",
+    "project_id": "denemeecommerceapp2",
+    "storage_bucket": "denemeecommerceapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257347618163:android:ab97536b3836707694f106",
+        "android_client_info": {
+          "package_name": "com.info.denemeecommerceapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257347618163-22nubgqukt11dsrvh5gs77sgqlc80p3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDrnfVXUvXkY1aVIAvkvS2G4OuCaafiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257347618163-22nubgqukt11dsrvh5gs77sgqlc80p3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
